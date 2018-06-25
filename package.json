@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts-ts",
-  "version": "2.16.0",
+  "name": "react-scripts-j",
+  "version": "0.1.0",
   "description": "Configuration and scripts for Create React App.",
   "repository": "wmonk/create-react-app",
   "license": "BSD-3-Clause",
@@ -18,7 +18,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts-ts": "./bin/react-scripts-ts.js"
+    "react-scripts-j": "./bin/react-scripts-j.js"
   },
   "dependencies": {
     "autoprefixer": "7.1.6",
